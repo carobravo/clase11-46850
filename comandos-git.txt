@@ -3,4 +3,4 @@ Comandos básicos de GIT
 2. git status: le pregunto a git cual es el status actual del repositorio
 3. git add . :guardo los cambios de mi html o añado nuevos archivos que se muestren en rojo git (staging area)
 4. git ignore: ignorar archivos o carpetas, que no las necesite internet pero sirvan para el desarrollo interno por ej. Ademas, si yo inicialice un archivo, ya no lo puedo ignorar. 
-5. git commit: confirmo los cambios que hicimos hasta ese momento, siempre registrar con un mensaje para saber en que estado guardamos el proyectos
+5. git log: me arroja todo el historial de commits
