@@ -1,0 +1,6 @@
+Comandos básicos de GIT
+1. git init: este comando inicializa o activa git en nuestros proyectos.
+2. git status: le pregunto a git cual es el status del repositorio
+3. git add . :guardo los cambios de mi html o añado nuevos archivos que se muestren en rojo git(staging area)
+4. git ignore: ignorar archivos o carpetas, que no las necesite internet pero sirvan para el desarrollo interno por ej.
+

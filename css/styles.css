@@ -1,0 +1,21 @@
+.navbar{
+    background-color: red;
+}
+
+.carouselExample{
+    width: 70%;
+}
+
+.carousel-item img{
+    height: 500px;
+}
+
+i{
+    font-size: 30px;
+    color: blue;
+
+}
+
+.bi-instagram{
+    color: blueviolet;
+}
