@@ -6,4 +6,5 @@ Comandos básicos de GIT
 5. git log: me arroja todo el historial de commit
 6. git log --online: historial de commits resumido, para el punto 5 y 6, entrega usuario, fecha y hr de esos cambios, ademas de los últimos commits6.
 7. git branch: le pido al codigo que me indique las ramas que tengo
-8. git branch -m (nombre de la rama): con esto cambio el nombre de la rama.
+8. git branch -m (nombre de la rama): con esto cambio el nombre de la rama. pjala siempre trabajar con main.
+9. git branch rama1: creando nueva rama: rama1
