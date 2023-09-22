@@ -11,4 +11,4 @@ Comandos básicos de GIT
 10. pasar entre ramas (cambiar entre ramas): git checkout rama1 (para irme a la rama1)
 11. eliminar rama1: irnos a la rama main y borrar con git branch -D rama1 (asi borro rama1)
 12. para movernos entre commits: git log --online, con esto descubro el commit con error, copio el codigo y pongo "git checkout bf66978" (es un ejemplo) -- luego volver a la rama donde estaba trabajando con checkout.
-13. GIT merge: los cambios de la rama1 pasarian a ser parte de la rama principal
+13. GIT merge (nombre rama): los cambios de la rama1 pasarian a ser parte de la rama principal. tener en cuenta que para hacer el merge a la rama main, las otras ramas no deben tener add ni commit pendientes. ademas debemos movernos a la rama principal, el merge no funciona desde otras ramas
