@@ -8,3 +8,5 @@ Comandos básicos de GIT
 7. git branch: le pido al codigo que me indique las ramas que tengo
 8. git branch -m (nombre de la rama): con esto cambio el nombre de la rama. pjala siempre trabajar con main.
 9. git branch rama1: creando nueva rama: rama1
+10. pasar entre ramas (cambiar entre ramas): git checkout rama1 (para irme a la rama1)
+11. eliminar rama1: irnos a la rama main y borrar con git branch -D rama1 (asi borro rama1)
